@@ -160,11 +160,11 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+How to prepare and manage a backlog for a product including backlog ceremonies, prioritization methods 
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* What is a backlog
+* Backlog refinement 
+* Backlog Prioritization Methods 
 
 
 ---
@@ -191,11 +191,10 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+Workshop on Story mapping technique and applications
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* What is a story map
+* How to construct a story map using user stories
 
 ---
 ---
@@ -221,11 +220,10 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+Workshop on Lean start-up model and how to apply it
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* Lean start-up model
+* How to apply lean start-up principles 
 
 ---
 ---
@@ -251,11 +249,11 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+Workshop on MVP types and how to develop an MVP
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* What is an MVP and type of MVPs
+* Real-life examples of MVPs
+
 
 ---
 ---
